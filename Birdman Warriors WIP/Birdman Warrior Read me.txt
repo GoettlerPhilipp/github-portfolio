@@ -1,0 +1,2 @@
+in this project i am only responsible for the combat programming. 
+Since my field of work in combat is/was not very big, I also wanted to learn something new, so I focussed on VFX and animation implementation.

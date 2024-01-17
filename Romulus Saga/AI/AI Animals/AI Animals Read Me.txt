@@ -1,0 +1,1 @@
+All these scripts in this folder were prototypes for animal opponents, which would also have walked around on the map.
