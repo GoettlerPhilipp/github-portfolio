@@ -1,5 +1,5 @@
 
-I always added the billboards as long as we didn't have any graphics so that we could still see the values. Thats
+I always added the billboards as long as we didn't have any graphics so that we could still see the values.
 This is why some scripts contain regions from time to time.
 
 We had used a round manager for a while. We only switched to an RTS later on in the project, which is why we sometimes mention rounds.
